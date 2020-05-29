@@ -1,3 +1,7 @@
+máy tầm trung có thể chạy được nhưng rất lâu nhé!
+
+
+
 <p align="center">
    <img src="https://user-images.githubusercontent.com/21986859/81626588-ae5ab800-93eb-11ea-918f-ebe98c2de40a.png"/>
 </p>
